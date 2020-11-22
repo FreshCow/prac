@@ -4,8 +4,8 @@ public class Practice {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World?");
-		System.out.println("¹Ý°©´Ù.");
-		System.out.println("¾È³ç¾È³ç");
+		System.out.println("HIHIHIHI");
+		System.out.println("BTS");
 
 	}
 
